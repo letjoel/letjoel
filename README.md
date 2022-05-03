@@ -1,16 +1,13 @@
-### Hi there 👋
+## About
+  Passionate about creating almost anything 
 
-<!--
-**letjoel/letjoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://images.habbo.com/habbo-web/america/es/assets/images/app_summary_image-1200x628.85a9f5dc.png" align="right" height="200" />
+  
+## 💻 Technologies
+- JS, C#
+- HMTL5 CSS3
+- PHP, SQL
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✌ Interests
+   - More interested in developing games than playing them
+   - Cycle Travels
