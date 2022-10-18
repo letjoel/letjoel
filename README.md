@@ -6,7 +6,7 @@
 ## 💻 Code Technologies
 
 FullStack
-- JS, TypeScript, 
+- JS, TypeScript 
 - React
 - NestJs
 - Jest
