@@ -6,15 +6,17 @@
 ## 💻 Code Technologies
 
 FullStack
-- JS, TypeScript 
+- JavaScript, TypeScript, HMTL5, CSS3 
 - React
-- NestJs
-- Jest
-- HMTL5 CSS3
+- NestJs (Mongoose & TypeORM)
+- Jest, Supertest
+- REST API, MVC, Authorization, Documentation
 - MySQL, MongoDB
+- Clean Code, SOLID principles, TDD
 
 GameDev
 - C#
+- Unity 3D
 
 Others
 - Java
