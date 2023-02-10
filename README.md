@@ -6,16 +6,16 @@ Passionate about developing since the age of 15.
 ## 💻 Code Technologies
 
 FullStack
-• JavaScript | TypeScript | C# | HTML | JSX/TSX | CSS | SCSS
-• NodeJS | NestJS (Mongoose & TypeORM) | Socket.io | Express.js | Swagger
-• MySQL | MongoDB
-• REST API | Authorization | Documentation
-• React | Vite
-• CSS Modules | Styled Components | Material UI | SASS | Tailwind
-• Docker | Firebase | AWS
-• Unit & E2E Testing: Jest | Supertest
-• Git | Jira | Agile
-• Clean Code | SOLID principles | TDD | MVC | Hexagonal architecture
+- JavaScript | TypeScript | C# | HTML | JSX/TSX | CSS | SCSS
+- NodeJS | NestJS (Mongoose & TypeORM) | Socket.io | Express.js | Swagger
+- MySQL | MongoDB
+- REST API | Authorization | Documentation
+- React | Vite
+- CSS Modules | Styled Components | Material UI | SASS | Tailwind
+- Docker | Firebase | AWS
+- Unit & E2E Testing: Jest | Supertest
+- Git | Jira | Agile
+- Clean Code | SOLID principles | TDD | MVC | Hexagonal architecture
 
 GameDev
 - C#
