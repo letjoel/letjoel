@@ -28,5 +28,5 @@ GameDev
 
 🚀✮
 
-Portfolio and more: https://elniu.dev/
-Contact me!: joel@elniu.dev
+- Portfolio and more: https://elniu.dev/
+- Contact me!: joel@elniu.dev
