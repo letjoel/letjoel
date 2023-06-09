@@ -14,13 +14,13 @@
 FullStack
 
 - JavaScript | TypeScript | C# | HTML | JSX/TSX | CSS | SCSS
-- React | Vite
+- React | Next js | Qwik
 - NodeJS | NestJS (Mongoose & TypeORM) | Socket.io | Express.js | Swagger
 - REST API | Authorization | Documentation
 - MySQL | MongoDB
 - CSS Modules | Styled Components | Material UI | SASS | Tailwind
 - Docker | Firebase | AWS
-- Unit & E2E Testing: Jest | Supertest
+- Unit & E2E Testing: Cypress | Jest | Supertest
 - Git | Jira | Agile
 - Clean Code | SOLID principles | TDD | MVC | Hexagonal architecture
 
