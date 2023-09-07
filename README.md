@@ -14,7 +14,7 @@
 FullStack
 
 - JavaScript | TypeScript | C# | HTML | JSX/TSX | CSS | SCSS
-- React | Next js | Qwik
+- React | Next.js | Vue | Qwik
 - NodeJS | NestJS (Mongoose & TypeORM) | Socket.io | Express.js | Swagger
 - REST API | Authorization | Documentation
 - MySQL | MongoDB
